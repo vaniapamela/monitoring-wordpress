@@ -1,0 +1,16 @@
+== Changelog ==
+
+= 2.5.5 - MAR 31 2026 =
+- Updated: Setup Wizard: Optional newsletter integration provider changed in favor of a self-hosted solution. Remains strictly opt-in.
+- Fixed: Hooks: Hook condition on product category pages. Also relates to the exact same problem in Ocean Hooks plugin.
+- Fixed: Error 'The editor has encountered an unexpected error' in Customizer > Widgets after importing demos that contain classic widgets.
+
+= 2.5.4 - MAR 9 2026 =
+- Fixed: Potential vulnerability patched: Report by Patchstack from FEB 16th 2026 / patch verification from MAR 4th 2026. Shoutout and a thanks to the Patchstack team for patch test and confirmation.
+
+= 2.5.3 - FEB 16 2026 =
+- Improved: Demo Import: Dynamic menu location assignment after import.
+- Improved: Demo Import: Conditional step validation of the import workflow.
+
+= 2.5.2 - NOV 24 2025 =
+All previous changelogs available at: https://docs.oceanwp.org/article/654-ocean-extra-changelog
